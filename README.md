@@ -17,3 +17,5 @@ f. What does git diff do?
 g. What is the main branch?
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+Te amo tudo meu benzinho!
