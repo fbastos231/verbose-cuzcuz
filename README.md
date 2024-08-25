@@ -1,6 +1,5 @@
 Hello, welcome to my repository!
 
-----------------------------------------
 a. What is an issue?
 Issues are used to track todos, bugs, feature requests, and more. This is a tool for program management in software teams.
 
